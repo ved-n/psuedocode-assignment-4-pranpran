@@ -1,0 +1,10 @@
+remove the jokers
+place two cards face down next to eachother
+on the side without the other card, place four more cards face down
+deal out the remaining cards to two players
+each player must then deal themselves a hand of five cards from the cards they have just recived
+players must always have five cards in their hand, they may take a card from the cards they were dealt initially after playing a card
+Then, flip the center two cards
+using their hand, a player can place card that come before or after the card in the center using the order Ace,1,2,3,4,5,6,7,8,8,10,Jack,Queen,King,Ace
+If neither player can make a move, the cards placed to the side of the two center cardscan be fliped and placed on top of the cards in the middle
+once a player runs out of cards, they must place both hands dwon on the center two piles and say "Speed"
