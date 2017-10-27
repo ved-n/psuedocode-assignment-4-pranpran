@@ -1,18 +1,24 @@
-remove the jokers
-create four piles of cards face down next to eachother
-place four cards in each of the outer two piles
-place one card in each of the inner two piles
-deal out the remaining cards to two players
-each player must then deal themselves a hand of five cards from the cards they have just recived
-players must always have five cards in their hand
-flip the center two cards at the same time
-cards must be placed in the order Ace,1,2,3,4,5,6,7,8,9,10,Jack,Queen,King,Ace or Ace,King,Queen,Jack,10,9,8,7,6,5,4,3,2,1,Ace
+//Add name and heading
+
+
+Remove the jokers
+Create four piles of cards face down next to eachother
+Place four cards in each of the outer two piles
+Place one card in each of the inner two piles
+Deal out the remaining cards to two players
+Each player must then deal themselves a hand of five cards from the cards they have just recived
+Players must always have five cards in their hand
+Flip the center two cards at the same time
+Cards must be placed in the order Ace,1,2,3,4,5,6,7,8,9,10,Jack,Queen,King,Ace or Ace,King,Queen,Jack,10,9,8,7,6,5,4,3,2,1,Ace
 The player must play cards that fit either squence from the their hand
 Once a player plays a card they must draw another card from the pile they have been delt
-if there are no longer any cards left in the pile, the player does not need to draw cards anymore
-If neither player can make a move, both players must each take a card from one of the outer piles
-they must place the card face down on one of the middle piles
-then they must flip the cards over at the same time
-if a player runs out of cards first, they must place both hands dwon on the center two piles and say "Speed"
-then the other player must stop plying their cards
-the game is now over
+  If there are no longer any cards left in the pile: 
+    then player does not need to draw cards anymore
+  If neither player can make a move:
+    Then both players must each take a card from one of the outer piles
+They must place the card face down on one of the middle piles
+Then they must flip the cards over at the same time
+  If a player runs out of cards first:
+    Then they must place both hands dwon on the center two piles and say "Speed"
+Then the other player must stop plying their cards
+The game is now over
